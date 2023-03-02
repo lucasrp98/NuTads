@@ -33,37 +33,37 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Tela de Cadastro 
 
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./images/Imagem-2.png" width="500" height="500"/>
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./images/Imagem-2.png" width="250"/>
 </h1>
 
 Tela de Login 
 
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./images/Imagem-5.png" width="500" height="500"/>
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./images/Imagem-5.png" width="250"/>
 </h1>
 
 Página Inicial 
 
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./images/Imagem-1.png" width="500" height="500"/>
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./images/Imagem-1.png" width="250"/>
 </h1>
 
 Tela do PIX
 
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./images/Imagem-3.png" width="500" height="500"/>
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./images/Imagem-3.png" width="250"/>
 </h1>
 
 Tela do Extrato Bancário
 
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./images/Imagem-4.png" width="500" height="500"/>
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./images/Imagem-4.png" width="250"/>
 </h1>
 
 Tela do TED
 
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./images/Imagem-6.png" width="500" height="500"/>
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./images/Imagem-6.png" width="250"/>
 </h1>
 
 
